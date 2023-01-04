@@ -9,6 +9,9 @@ function App() {
         <p>
           Vimdhayak dogesh dogelina
         </p>
+        <p>
+          Famzi Jamed
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -23,3 +26,5 @@ function App() {
 }
 
 export default App;
+
+
